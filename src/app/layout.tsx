@@ -16,13 +16,13 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: {
-    default: "Niloy Bhowmick – Video Editor & Motion Graphics Designer",
-    template: "%s | Niloy Bhowmick",
+    default: "Neil Swing – Video Editor & Motion Graphics Designer",
+    template: "%s | Neil Swing",
   },
   description:
-    "Turning raw footage into visual stories — with style, precision, and a touch of cinematic magic. Niloy Bhowmick specializes in DaVinci Resolve, Premiere Pro, and After Effects — delivering cinematic edits, motion graphics, and polished storytelling.",
+    "Turning raw footage into visual stories — with style, precision, and a touch of cinematic magic. Neil Swing specializes in Capcut Pro , Premiere Pro, and After Effects — delivering cinematic edits, motion graphics, and polished storytelling.",
   keywords: [
-    "Niloy Bhowmick",
+    "Neil Swing",
     "Video Editor",
     "Motion Graphics Designer",
     "DaVinci Resolve",
@@ -40,9 +40,9 @@ export const metadata: Metadata = {
     "Lower Thirds",
     "Audio Sync",
   ],
-  authors: [{ name: "Niloy Bhowmick", url: "https://www.itsniloy.me" }],
-  creator: "Niloy Bhowmick",
-  publisher: "Niloy Bhowmick",
+  authors: [{ name: "Neil Swing", url: "https://swingneil.com" }],
+  creator: "Neil Swing",
+  publisher: "Neil wing",
   robots: {
     index: true,
     follow: true,
@@ -57,33 +57,33 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://www.itsniloy.me",
-    title: "Niloy Bhowmick – Video Editor & Motion Graphics Designer",
+    url: "https://swingneil.com",
+    title: "Neil Swing – Video Editor & Motion Graphics Designer",
     description:
-      "Passionate Video Editor and Motion Graphics Designer delivering clean, cinematic edits and dynamic visual storytelling using DaVinci Resolve, Premiere Pro, and After Effects.",
-    siteName: "Niloy Bhowmick Portfolio",
+      "Passionate Video Editor and Motion Graphics Designer delivering clean, cinematic edits and dynamic visual storytelling using Capcut Pro , Premiere Pro, and After Effects.",
+    siteName: "Neil Swing Portfolio",
     images: [
       {
-        url: "/niloybhowmick.png",
+        url: "/neilswing.jpeg",
         width: 1200,
         height: 630,
-        alt: "Niloy Bhowmick - Video Editor",
+        alt: "Neil Swing - Video Editor",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Niloy Bhowmick – Video Editor & Motion Graphics Designer",
+    title: "Neil Swing – Video Editor & Motion Graphics Designer",
     description:
       "Crafting cinematic edits, motion graphics, and powerful stories. Let's make your content stand out.",
-    creator: "@niloy_bhowmick", // update if you have a real Twitter handle
-    images: ["/niloybhowmick.png"],
+    creator: "@", // update if you have a real Twitter handle
+    images: ["/neilswing.jpeg"],
   },
   verification: {
     google: "your-google-verification-code",
   },
   alternates: {
-    canonical: "https://www.itsniloy.me",
+    canonical: "https://swingneil.com",
   },
   category: "Video Editing",
 };
@@ -105,14 +105,14 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Person",
-              name: "Niloy Bhowmick",
-              url: "https://www.itsniloy.me",
-              image: "/niloybhowmick.png",
+              name: "Neil Swing",
+              url: "https://swingneil.com",
+              image: "/neilswing.jpeg",
               sameAs: [
-                "https://www.itsniloy.me",
-                "https://linkedin.com/in/niloybhowmick", // update if available
-                "https://youtube.com/@niloybhowmick", // update if available
-                "https://twitter.com/niloy_bhowmick", // update if available
+                "https://swingneil.com",
+                "https://linkedin.com/in/neilswing", // update if available
+                "https://youtube.com/", // update if available
+                "https://twitter.com/", // update if available
               ],
               jobTitle: "Video Editor & Motion Graphics Designer",
               knowsAbout: [

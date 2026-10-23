@@ -1,4 +1,4 @@
-# Niloy Bhowmick
+# Neil Swing
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
 
-[**🌐 Live Website**](https://www.itsniloy.me)
+[**🌐 Live Website**](https://swingneil.com)
 
 </div>
 
@@ -52,7 +52,7 @@ This project implements a unique **"Midnight Liquid Glass"** aesthetic, focusing
     Add your environment variables:
     ```env
     RESEND_API_KEY=your_resend_api_key_here
-    NEXT_PUBLIC_SITE_URL=https://www.itsniloy.me
+    NEXT_PUBLIC_SITE_URL=https://swingneil.com
     ```
 
 4.  **Run the development server**
@@ -91,7 +91,7 @@ pnpm run test:watch
 3.  Add environment variables in Vercel dashboard:
     ```env
     RESEND_API_KEY=your_production_resend_key
-    NEXT_PUBLIC_SITE_URL=https://www.itsniloy.me
+    NEXT_PUBLIC_SITE_URL=https://swingneil.com
     ```
 4.  Deploy automatically.
 
@@ -111,7 +111,7 @@ pnpm run test:watch
  ┃ ┣ 📜demo.png
  ┃ ┣ 📜logo-transparent.png
  ┃ ┣ 📜logo-white.png
- ┃ ┣ 📜niloybhowmick.png
+ ┃ ┣ 📜neilswing.jpeg
  ┃ ┗ 📜not-found.jpg
  ┣ 📂src
  ┃ ┣ 📂app

@@ -96,10 +96,10 @@ export default function ContactPage() {
                   <div>
                     <p className="text-gray-400 text-sm">Email</p>
                     <a
-                      href="mailto:contact.niloybhowmick@gmail.com"
+                      href="mailto:neilswing12@gmail.com"
                       className="text-white hover:text-blue-400 transition-colors"
                     >
-                      contact.niloybhowmick@gmail.com
+                      neilswing12@gmail.com
                     </a>
                   </div>
                 </div>
@@ -111,12 +111,12 @@ export default function ContactPage() {
                   <div>
                     <p className="text-gray-400 text-sm">WhatsApp</p>
                     <a
-                      href="https://wa.me/+8801580385556"
+                      href="https://wa.me/+639760376093"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-white hover:text-green-400 transition-colors"
                     >
-                      +88 (015) 803-85556
+                      +639760376093
                     </a>
                   </div>
                 </div>
